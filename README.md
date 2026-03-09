@@ -43,12 +43,19 @@ Full wave rectifier with filter:
 <img width="1023" height="569" alt="image" src="https://github.com/user-attachments/assets/843f2c5e-e427-4a61-8b43-a91ba4501529" />
 
 TABULAR COLUMN
+
 Rectifier without filter
+![WhatsApp Image 2026-03-09 at 7 09 54 PM (1)](https://github.com/user-attachments/assets/6985f864-82f3-4bcb-84c8-6c848eef6548)
+
 TABULAR COLUMN
+
 Rectifier with filter
+![WhatsApp Image 2026-03-09 at 7 09 00 PM (1)](https://github.com/user-attachments/assets/3c839de9-2696-432d-b7d7-a4c6756007ba)
 
 WAVEFORM:
+<img width="935" height="486" alt="image" src="https://github.com/user-attachments/assets/4f5c95fe-5084-4d31-8f5c-7e52c2e347ba" />
 
+![Uploading image.png…]()
 
 RESULT:
 
