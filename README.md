@@ -55,7 +55,8 @@ Rectifier with filter
 WAVEFORM:
 <img width="935" height="486" alt="image" src="https://github.com/user-attachments/assets/4f5c95fe-5084-4d31-8f5c-7e52c2e347ba" />
 
-![Uploading image.png…]()
+<img width="933" height="484" alt="image" src="https://github.com/user-attachments/assets/aaa47c86-f5a8-4d7b-9543-f4d27952bb61" />
+
 
 RESULT:
 
